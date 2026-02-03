@@ -94,6 +94,9 @@ All In One USB Drive is a curated collection of diagnostic and rescue tools, ope
 | Windows 11        | Microsoft Windows 11 installer          | [Download Windows 11][windows11]               |
 | OfficeSetup       | Microsoft Office 365 Pro Plus installer | [Download Office365][office365]                |
 
+> [!TIP]  
+> See [Community Pick](#community-pick) for recommended tools and alternatives by the community.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -123,10 +126,8 @@ All In One USB Drive is a curated collection of diagnostic and rescue tools, ope
 1. Download ISO
 2. Copy and paste ISO to multiboot USB drive
 
-> [!NOTE]  
-> Ventoy USB drive works as a regular USB drive.  
-> You may add or remove any type of files.  
-> You may format Ventoy USB drive to remove Ventoy.
+> [!TIP]  
+> Ventoy USB drive works as a regular USB drive. You may add or remove any type of files. You may format Ventoy USB drive to remove Ventoy.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,6 +177,17 @@ irm https://get.activated.win | iex
 - TSforge - Permanently Activate Windows/ESU/Office
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- COMMUNITY PICK -->
+
+## Community Pick
+
+<!-- | Tool Name | Descriptive noun | [Download Tool Name][tool-name] | -->
+
+| Name | Description | Download |
+| ---- | ----------- | -------- |
+| Grml | Linux live-system for rescue and generic purposes | [Download Grml][grml] |
+|      |             |          |
 
 <!-- ROADMAP -->
 
@@ -241,6 +253,7 @@ Project Link: https://github.com/fathulfahmy/aio-usb-drive
 - [Hiren's BootCD PE](https://www.hirensbootcd.org/)
 - [MASSGRAVE](https://massgrave.dev/)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
+- [Grml](https://grml.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -272,3 +285,8 @@ Project Link: https://github.com/fathulfahmy/aio-usb-drive
 [windows11]: https://www.microsoft.com/en-us/software-download/windows11
 [office365]: https://gravesoft.dev/office_c2r_links
 [massgrave]: https://massgrave.dev/
+[grml]: https://grml.org/download/
+
+<!-- COMMUNITY PICK DOWNLOAD URL -->
+
+<!-- [tool-name]: https://website.com/download -->
